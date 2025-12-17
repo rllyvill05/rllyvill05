@@ -28,7 +28,7 @@ I continue to learn by building, experimenting, and refining my work step by ste
 <div align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=rllyvill05&show_icons=true&theme=radical" alt="rllyvill05's GitHub stats" />
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rllyvill05&layout=compact&theme=react&langs_count=6" alt="rllyvill05's Top Languages" />
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com?username=rllyvill05&theme=radical" alt="rllyvill05's GitHub Streak" />
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com?user=rllyvill05&theme=radical" alt="rllyvill05's GitHub Streak" />
 </div>
 
 ## 🖼️ **Graphical Commit History**
