@@ -17,8 +17,9 @@ I continue to learn by building, experimenting, and refining my work step by ste
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
+<img align="left" alt="PHP" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
 <br />
 
 ## 📊 **GitHub Stats**
@@ -26,8 +27,8 @@ I continue to learn by building, experimenting, and refining my work step by ste
 <div align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=rllyvill05&show_icons=true&theme=radical" alt="rllyvill05's GitHub stats" />
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rllyvill05&layout=compact&theme=react&langs_count=6" alt="rllyvill05's Top Languages" />
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com?user=rllyvill05&theme=radical" alt="rllyvill05's GitHub Streak" />
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com?username=rllyvill05&theme=radical" alt="rllyvill05's GitHub Streak" />
 </div>
 
 ## 🖼️ **Graphical Commit History**
-[![Shaik's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rllyvill05&theme=react-dark)](https://github.com/rllyvill05)
+[![rllyvill05's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rllyvill05&theme=react-dark)](https://github.com/rllyvill05)
