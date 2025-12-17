@@ -1,4 +1,9 @@
-# rllyvill05
+🌱 I don’t consider myself naturally talented or an expert in any field.
+What I believe in is consistency, learning, and practice.
+
+Every skill starts from zero. Through patience, curiosity, and hands-on experience, improvement becomes possible over time. Mistakes are part of the process, and each one is a lesson that moves me forward.
+
+I continue to learn by building, experimenting, and refining my work step by step. With enough effort and persistence, anyone can grow into what they want to become.
 
 ### Tools and languages that i used
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
