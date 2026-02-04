@@ -44,4 +44,4 @@ I continue to learn by building, experimenting, and refining my work step by ste
 </div>
 
 ## **Graphical Commit History**
-[![rllyvill05's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rllyvill05&theme=react-dark&border_radius=8.5&height=250&width=500)](https://github.com/rllyvill05)
+[![rllyvill05's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rllyvill05&theme=react-dark&border_radius=8.5&height=250&width=250)](https://github.com/rllyvill05)
