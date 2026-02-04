@@ -34,7 +34,9 @@ I continue to learn by building, experimenting, and refining my work step by ste
 </div>
 
 ## **Streak**
-[![GitHub Streak](https://streak-stats.demolab.com?user=rllyvill05&theme=dark&border_radius=8.5)](https://git.io/streak-stats)
+<div align="center">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=rllyvill05&theme=dark&border_radius=8.5" alt="GitHub Streak" /></a>
+</div>
 
 ## **Graphical Commit History**
 [![rllyvill05's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rllyvill05&theme=react-dark)](https://github.com/rllyvill05)
