@@ -26,7 +26,7 @@ I continue to learn by building, experimenting, and refining my work step by ste
 <img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
 <br />
 
-## 📊 **GitHub Stats**
+## **GitHub Stats**
 
 <div align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=rllyvill05&show_icons=true&theme=radical" alt="rllyvill05's GitHub stats" />
@@ -34,5 +34,8 @@ I continue to learn by building, experimenting, and refining my work step by ste
   <!-- <img height="150" src="https://github-readme-streak-stats.herokuapp.com?user=rllyvill05&theme=radical" alt="rllyvill05's GitHub Streak" /> -->
 </div>
 
-## 🖼️ **Graphical Commit History**
+## **Streak**
+[![GitHub Streak](https://streak-stats.demolab.com/?user=rllyvill05)](https://git.io/streak-stats)
+
+## **Graphical Commit History**
 [![rllyvill05's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rllyvill05&theme=react-dark)](https://github.com/rllyvill05)
