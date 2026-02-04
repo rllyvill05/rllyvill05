@@ -32,12 +32,11 @@ I continue to learn by building, experimenting, and refining my work step by ste
 </div>
 
 ## **GitHub Stats**
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rllyvill05&langs_count=8)
-
-## **Streak**
-<div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=rllyvill05&theme=dark&border_radius=8.5" alt="GitHub Streak" /></a>
-</div>
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rllyvill05&langs_count=8)
+  
+  <div align="center">
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=rllyvill05&theme=dark&border_radius=8.5" alt="GitHub Streak" /></a>
+  </div>
 
 ## **Graphical Commit History**
 [![rllyvill05's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rllyvill05&theme=github-compact)](https://github.com/rllyvill05)
