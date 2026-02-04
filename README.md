@@ -27,7 +27,6 @@ I continue to learn by building, experimenting, and refining my work step by ste
 <br />
 
 ## **GitHub Stats**
-
 <div align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=rllyvill05&show_icons=true&theme=radical" alt="rllyvill05's GitHub stats" />
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rllyvill05&layout=compact&theme=react&langs_count=6" alt="rllyvill05's Top Languages" />
@@ -35,7 +34,7 @@ I continue to learn by building, experimenting, and refining my work step by ste
 </div>
 
 ## **Streak**
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=rllyvill05&theme=dark&border_radius=8.5" alt="GitHub Streak" /></a>
+[![rllyvill05's Streak](https://streak-stats.demolab.com/?user=rllyvill05)](https://git.io/streak-stats)
 
 ## **Graphical Commit History**
 [![rllyvill05's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rllyvill05&theme=react-dark)](https://github.com/rllyvill05)
