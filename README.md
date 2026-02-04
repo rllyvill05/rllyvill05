@@ -35,7 +35,7 @@ I continue to learn by building, experimenting, and refining my work step by ste
 </div>
 
 ## **Streak**
-[![GitHub Streak](https://streak-stats.demolab.com/?user=rllyvill05)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=rllyvill05)](https://git.io)
 
 ## **Graphical Commit History**
 [![rllyvill05's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rllyvill05&theme=react-dark)](https://github.com/rllyvill05)
