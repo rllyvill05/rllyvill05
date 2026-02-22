@@ -1,12 +1,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+There+%F0%9F%91%8B" alt="Typing SVG" /></a>
 
 
-🌱 I don’t consider myself naturally talented or an expert in any field.
-What I believe in is consistency, learning, and practice.
-
-Every skill starts from zero. Through patience, curiosity, and hands-on experience, improvement becomes possible over time. Mistakes are part of the process, and each one is a lesson that moves me forward.
-
-I continue to learn by building, experimenting, and refining my work step by step. With enough effort and persistence, anyone can grow into what they want to become.
+💀💀💀💀
 
 <br>
 
