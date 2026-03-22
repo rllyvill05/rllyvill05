@@ -27,11 +27,7 @@
 </div>
 
 ## **GitHub Stats**
-  <div align="center">
-      <a>src="https://github-readme-stats.vercel.app/api/top-langs/?username=rllyvill05&langs_count=8"</a>
-      <!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rllyvill05&langs_count=8) -->
-  </div>
-
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rllyvill05&langs_count=8)
   
   <div align="center">
     <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=rllyvill05&theme=dark&border_radius=8.5" alt="GitHub Streak" /></a>
